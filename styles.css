@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container {
+    
+    display: inline-block;
+}
+img{
+    width: 130px;
+    position: absolute;
+}
+h1 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 130px;
+}
+span {
+    color: #2f6ca2;
+}
+.theworld 
+ {
+     background-color: #2f6ca2;
+     height: 70px;
+     margin-top: 15px;
+     
+ }
+ #left {
+     display: inline-block;
+ }
+ h2{
+     padding: 15px;
+     font-size: 40px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: normal;
+     color: white;
+ }
+ 
+ h3 span {
+     color: red;
+ }
+ h3{
+     width: 250px;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top: 20px;
+     margin-left: 10px;
+ }
+ p{
+     width: 250px;
+     font-size: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top: 20px;
+     margin-left: 10px;
+     line-height: 20px;
+     margin-top: 10px;
+     font-weight: bold;
+ }
+ a{
+     padding: 20px;
+     display: block;
+     width: 150px;
+     margin-left: 30px;
+     margin-top: 20px;
+     text-align: center;
+     text-decoration: none;
+     color: white;
+     background-color:#2f6ca2;
+     border-radius: 5px;
+     padding: 10px;
+ }
+ .orange {
+     background-color: #ef7a00;
+ }
+ hr {
+     margin-top: 10px;
+     width: 205px;
+     margin-left: 18px;
+ }
+ .fondo {
+     background-image: url(images/ad_background.png);
+     height: 350px;
+     margin-left: 20px;
+     width: 206px;
+     margin-top: 20px;
+     padding-top: 20px;
+ }
+ h5 {
+     color: white;
+     font-family: sans-serif;
+     font-size: 20px;
+     padding: 1px;
+    
+     text-align: center;
+ }
+ .fondo img {
+     width: 130px;
+     margin-left: 30px;
+     margin-top: 8px;
+ }
+ .fondo a {
+     background-color: #1ec6df;
+     color: black;
+     padding: 5px;
+     margin-left: 20px;
+     margin-top: 210px;
+     color: white;
+     border-radius: 6px;
+ }
+ #subheader {
+     display: inline-block;
+     vertical-align: top;
+ }
+ .inicio {
+     width: 1080px;
+     
+     display: inline-block;
+     vertical-align: top;
+ }
+ .inicio img {
+     display: inline-block;
+     vertical-align: top;
+     width: 20px;
+     margin-top: 15px;
+     margin-left: 20px;
+ }
+ .inicio a {
+     color: blueviolet;
+     background-color: white;
+     width: 0;
+     font-weight: bold;
+     margin-top: 10px;
+     display: inline-block;
+ }
+ .contact {
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 850px;
+     margin-top: -50px;
+     
+ }
+ .contact span {
+     color: #04c1df;
+     font-size: 30px;
+     width: 100px;
+ }
+ .contact p {
+     line-height: 20px;
+     font-weight: normal;
+     color: gray;
+     font-size: 10px;
+     text-align: center;
+     width: 200px;
+ 
+ }
+ .fono img {
+     margin-left: -25px; 
+     width: 35px;
+     margin-bottom: 5px;
+ }
+ .center {
+     width: 1050px;
+ }
+ #container2{
+     display: inline-block;
+ }
+ .client {
+     font-size: 20px;
+     margin-top: 10px;
+     margin-left: 10px;
+     color: #2f6ca2;    
+ }
+ .list {
+     list-style: none;
+     margin-left: 10px;
+     margin-top: 10px;
+ }
+ ul li {
+     width: 950px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-weight: bold;
+     margin-left: 50px;
+    line-height: 25px;
+ }
+ .img img {
+     width: 300px;
+     height: 100px;
+     margin-left: 350px;
+ }
+ .cli {
+   
+     margin-top: 125px;
+ }
+ .clientes2 {
+     font-size: 20px;
+     margin-top: 10px;
+     margin-left: 30px;
+     color: #2f6ca2; 
+ }
+ .cli ul li {
+     list-style: decimal;
+ }
+ .cli .list {
+     margin-left: 50px;  
+ }
+ .footer img {
+     width: 150px;
+     margin-left: 200px;
+     margin-top: 10px;
+ }
+ .footer2 {
+     border: 2px solid #2f6ca2;
+     border-bottom:none ;
+     width: 700px;
+     margin-left: 150px;
+     padding-left: 20px;
+    
+ }
+ .footer2 h1 {
+     font-size: 25px;
+     margin-left: 200px;
+     margin-top: 10px;
+     
+ }
+ .footer2 p {
+     margin-left: 200px;
+     width: 500px;
+ }
+
+ 
+ 
+
+ 
+
+
